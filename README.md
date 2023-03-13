@@ -25,3 +25,5 @@ https://user-images.githubusercontent.com/102103267/224844110-9f744065-bb5e-49c5
 ![portugues](https://user-images.githubusercontent.com/102103267/224840909-091ca69c-154a-46d1-88ad-15f5617eed2b.png)
 ![frances](https://user-images.githubusercontent.com/102103267/224840926-77ceeba1-c4ef-4ee6-9719-9be4f62268b3.png)
 ![italiano](https://user-images.githubusercontent.com/102103267/224840938-40ef97f8-d28b-4d00-a930-86ee356d7a9e.png)
+![acercade](https://user-images.githubusercontent.com/102103267/224845167-4bbbc3dd-af54-4472-b54c-41de6ebcc5f0.png)
+![desarrollador](https://user-images.githubusercontent.com/102103267/224845184-50d41c82-f99e-46f6-9b7b-c7e3ebb6b004.png)
