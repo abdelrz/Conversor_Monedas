@@ -11,6 +11,7 @@ Esta herramienta es una aplicación hecha con el lenguaje Java que ofrece una va
 
 •	**Frases de Idiomas:** Acceda a una lista de frases de idiomas útiles para comunicarse con la gente local del país en el que se encuentra.
 # Aplicación
+https://user-images.githubusercontent.com/102103267/224843569-afef78b2-f612-4b95-b3c4-e82eaeb180aa.mp4
 ![menuprincipal](https://user-images.githubusercontent.com/102103267/224840716-e79a74f2-bb33-4506-92bc-94b69781c5ac.png)
 ![conversormonedas](https://user-images.githubusercontent.com/102103267/224840776-db8fdbca-0cef-4a30-9092-3ec8b639899e.png)
 ![calculadoradescuento](https://user-images.githubusercontent.com/102103267/224840808-f77361f4-128a-487a-a123-7e0d78c7ff34.png)
