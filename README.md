@@ -5,9 +5,9 @@ Esta herramienta es una aplicación hecha con el lenguaje Java que ofrece una va
 
 •	**Conversor de Monedas:** Convierta rápidamente entre diferentes monedas.
 
-•	**Calculadora Básica:** Realice cálculos simples mientras viaja sin necesidad de una calculadora física.
-
 •	**Calculadora de Descuento:** Calcule rápidamente el precio después del descuento al hacer compras durante su viaje.
+
+•	**Calculadora Básica:** Realice cálculos simples mientras viaja sin necesidad de una calculadora física.
 
 •	**Frases de Idiomas:** Acceda a una lista de frases de idiomas útiles para comunicarse con la gente local del país en el que se encuentra.
 # Aplicación
